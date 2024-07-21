@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github" fetch="ssh://git@github.com/HorizonRDK" />
+  <remote name="github" fetch="ssh://git@github.com/D-Robotics" />
 
   <default revision="develop" upstream="develop" remote="github" sync-c="true" sync-j="4" />
 
