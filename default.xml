@@ -21,6 +21,7 @@
   <project name="x5-hobot-utils" path="source/hobot-utils"/>
   <project name="x5-hobot-camera" path="source/hobot-camera"/>
   <project name="x5-hobot-io" path="source/hobot-io"/>
+  <project name="x5-hobot-io-samples" path="source/hobot-io-samples"/>
   <project name="x5-hobot-miniboot" path="source/hobot-miniboot"/>
 
   <project name="x5-rdk-gen" path="."/>
