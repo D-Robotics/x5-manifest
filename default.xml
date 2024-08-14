@@ -24,6 +24,8 @@
   <project name="x5-hobot-io-samples" path="source/hobot-io-samples"/>
   <project name="x5-hobot-miniboot" path="source/hobot-miniboot"/>
   <project name="x5-hobot-audio-config" path="source/hobot-audio-config"/>
+  <project name="x5-hobot-spdev" path="source/hobot-spdev"/>
+  <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples"/>
 
   <project name="x5-rdk-gen" path="."/>
 </manifest>
