@@ -18,7 +18,7 @@
   <project name="x5-hobot-multimedia" path="source/hobot-multimedia" revision="sdk-1.0.14"/>
   <project name="x5-hobot-multimedia-dev" path="source/hobot-multimedia-dev" revision="sdk-1.0.14"/>
   <project name="x5-hobot-multimedia-samples" path="source/hobot-multimedia-samples" revision="sdk-1.0.14"/>
-  <project name="x5-hobot-utils" path="source/hobot-utils" revision="sdk-1.0.14/>
+  <project name="x5-hobot-utils" path="source/hobot-utils" revision="sdk-1.0.14"/>
   <project name="x5-hobot-camera" path="source/hobot-camera" revision="sdk-1.0.14"/>
   <project name="x5-hobot-io" path="source/hobot-io"/>
   <project name="x5-hobot-io-samples" path="source/hobot-io-samples"/>
