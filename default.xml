@@ -6,7 +6,7 @@
 
   <project name="x5-hobot-kernel-headers" path="source/hobot-kernel-headers"/>
   <project name="x5-hobot-dtb" path="source/hobot-dtb"/>
-  <project name="x5-hobot-configs" path="source/hobot-configs"/>
+  <project name="x5-hobot-configs" path="source/hobot-configs" revision="beta"/>
   <project name="x5-hobot-boot" path="source/hobot-boot"/>
   <project name="x5-hobot-wifi" path="source/hobot-wifi"/>
   <project name="x5-kernel" path="source/kernel" revision="sdk-1.0.14"/>
