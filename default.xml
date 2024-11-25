@@ -2,7 +2,7 @@
 <manifest>
   <remote name="github" fetch="ssh://git@github.com/D-Robotics" />
 
-  <default revision="develop" upstream="develop" remote="github" sync-c="true" sync-j="4" />
+  <default revision="develop" upstream="main" remote="github" sync-c="true" sync-j="4" />
 
   <project name="x5-hobot-kernel-headers" path="source/hobot-kernel-headers"/>
   <project name="x5-hobot-dtb" path="source/hobot-dtb"/>
