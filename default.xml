@@ -17,7 +17,7 @@
   <project name="x5-hobot-dnn" path="source/hobot-dnn"/>
   <project name="x5-hobot-multimedia" path="source/hobot-multimedia" revision="1.0.17"/>
   <project name="x5-hobot-multimedia-dev" path="source/hobot-multimedia-dev"  revision="1.0.17"/>
-  <project name="x5-hobot-multimedia-samples" path="source/hobot-multimedia-samples"/>
+  <project name="x5-hobot-multimedia-samples" path="source/hobot-multimedia-samples" revision="1.0.17"/>
   <project name="x5-hobot-utils" path="source/hobot-utils"/>
   <project name="x5-hobot-camera" path="source/hobot-camera"/>
   <project name="x5-hobot-io" path="source/hobot-io"/>
