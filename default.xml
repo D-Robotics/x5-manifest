@@ -15,7 +15,7 @@
   <project name="x5-drv-camsys" path="source/kernel/drivers/media/platform/horizon/camsys" revision="1.0.17"/>
   <project name="x5-hobot-drivers" path="source/hobot-drivers" revision="1.0.17"/>
   <project name="x5-hobot-dnn" path="source/hobot-dnn"/>
-  <project name="x5-hobot-multimedia" path="source/hobot-multimedia"/>
+  <project name="x5-hobot-multimedia" path="source/hobot-multimedia" revision="1.0.17"/>
   <project name="x5-hobot-multimedia-dev" path="source/hobot-multimedia-dev"/>
   <project name="x5-hobot-multimedia-samples" path="source/hobot-multimedia-samples"/>
   <project name="x5-hobot-utils" path="source/hobot-utils"/>
