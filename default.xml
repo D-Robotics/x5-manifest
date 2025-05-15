@@ -29,6 +29,6 @@
   <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples" revision="7066c099475cd7d94fc60b53a3c78503166ac53c"/>
   <project name="x5-hobot-display" path="source/hobot-display" revision="52dd4f183e45c61243640dcbb496612046ec2506"/>
 
-  <project name="x5-rdk-gen" path="."/>
+  <project name="x5-rdk-gen" path="." revision="0d5a77b6ab7967503cbf49964a898136514f207d"/>
 </manifest>
 
