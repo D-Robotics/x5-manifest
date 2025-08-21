@@ -11,7 +11,7 @@
   <project name="x5-hobot-wifi" path="source/hobot-wifi"/>
   <project name="x5-kernel" path="source/kernel" revision="dev-x5"/>
   <project name="x5-bootloader" path="source/bootloader"/>
-  <project name="x5-uboot" path="source/bootloader/uboot"/>
+  <project name="x5-uboot" path="source/bootloader/uboot" revision="dev-x5"/>
   <project name="x5-drv-camsys" path="source/kernel/drivers/media/platform/horizon/camsys" revision="dev-x5"/>
   <project name="x5-hobot-drivers" path="source/hobot-drivers"/>
   <project name="x5-hobot-dnn" path="source/hobot-dnn"/>
