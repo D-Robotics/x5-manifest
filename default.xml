@@ -21,9 +21,9 @@
   <project name="x5-multimedia-samples" path="source/hobot-multimedia-samples/debian/app/multimedia_samples" revision="dev-x5"/>
   <project name="x5-hobot-utils" path="source/hobot-utils"/>
   <project name="x5-hobot-camera" path="source/hobot-camera" revision="dev-x5"/>
-  <project name="x5-libcam-sensor" path="source/hobot-camera/drivers/sensor"/>
-  <project name="x5-libcam-inc" path="source/hobot-camera/drivers/inc"/>
-  <project name="x5-tuning-json" path="source/hobot-camera/drivers/isp_json"/>
+  <project name="x5-libcam-sensor" path="source/hobot-camera/drivers/sensor" revision="dev-x5"/>
+  <project name="x5-libcam-inc" path="source/hobot-camera/drivers/inc" revision="dev-x5"/>
+  <project name="x5-tuning-json" path="source/hobot-camera/drivers/isp_json" revision="dev-x5"/>
   <project name="x5-hobot-io" path="source/hobot-io"/>
   <project name="x5-hobot-io-samples" path="source/hobot-io-samples"/>
   <project name="x5-hobot-miniboot" path="source/hobot-miniboot"/>
