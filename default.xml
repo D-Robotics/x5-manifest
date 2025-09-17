@@ -32,6 +32,6 @@
   <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples"/>
   <project name="x5-hobot-display" path="source/hobot-display"/>
 
-  <project name="x5-rdk-gen" path="."/>
+  <project name="x5-rdk-gen" path="." revision="dev-x5"/>
 </manifest>
 
