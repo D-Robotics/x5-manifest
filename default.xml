@@ -30,7 +30,7 @@
   <project name="x5-hobot-audio-config" path="source/hobot-audio-config"/>
   <project name="x5-hobot-spdev" path="source/hobot-spdev" revision="3.4.0"/>
   <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples"/>
-  <project name="x5-hobot-display" path="source/hobot-display"/>
+  <project name="x5-hobot-display" path="source/hobot-display" revision="3.4.0"/>
 
   <project name="x5-rdk-gen" path="." revision="3.4.0"/>
 </manifest>
