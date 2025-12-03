@@ -2,7 +2,7 @@
 <manifest>
   <remote name="github" fetch="ssh://git@github.com/D-Robotics" />
 
-  <default revision="main" upstream="main" remote="github" sync-c="true" sync-j="4" />
+  <default revision="3.3.3" upstream="3.3.3" remote="github" sync-c="true" sync-j="4" />
 
   <project name="x5-kernel" path="source/kernel"/>
   <project name="x5-uboot" path="source/bootloader/uboot"/>
