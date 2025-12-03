@@ -4,30 +4,34 @@
 
   <default revision="main" upstream="main" remote="github" sync-c="true" sync-j="4" />
 
-  <project name="x5-kernel" path="source/kernel"/>
-  <project name="x5-uboot" path="source/bootloader/uboot"/>
-  <project name="x5-drv-camsys" path="source/kernel/drivers/media/platform/horizon/camsys"/>
-
   <project name="x5-hobot-kernel-headers" path="source/hobot-kernel-headers"/>
   <project name="x5-hobot-dtb" path="source/hobot-dtb"/>
   <project name="x5-hobot-configs" path="source/hobot-configs"/>
   <project name="x5-hobot-boot" path="source/hobot-boot"/>
   <project name="x5-hobot-wifi" path="source/hobot-wifi"/>
+  <project name="x5-kernel" path="source/kernel"/>
   <project name="x5-bootloader" path="source/bootloader"/>
+  <project name="x5-miniboot" path="source/bootloader/miniboot"/>
+  <project name="x5-uboot" path="source/bootloader/uboot"/>
+  <project name="x5-drv-camsys" path="source/kernel/drivers/media/platform/horizon/camsys"/>
   <project name="x5-hobot-drivers" path="source/hobot-drivers"/>
   <project name="x5-hobot-dnn" path="source/hobot-dnn"/>
   <project name="x5-hobot-multimedia" path="source/hobot-multimedia"/>
   <project name="x5-hobot-multimedia-dev" path="source/hobot-multimedia-dev"/>
   <project name="x5-hobot-multimedia-samples" path="source/hobot-multimedia-samples"/>
+  <project name="x5-multimedia-samples" path="source/hobot-multimedia-samples/debian/app/multimedia_samples"/>
   <project name="x5-hobot-utils" path="source/hobot-utils"/>
   <project name="x5-hobot-camera" path="source/hobot-camera"/>
+  <project name="x5-libcam-sensor" path="source/hobot-camera/drivers/sensor"/>
+  <project name="x5-libcam-inc" path="source/hobot-camera/drivers/inc"/>
+  <project name="x5-tuning-json" path="source/hobot-camera/drivers/isp_json"/>
   <project name="x5-hobot-io" path="source/hobot-io"/>
   <project name="x5-hobot-io-samples" path="source/hobot-io-samples"/>
   <project name="x5-hobot-miniboot" path="source/hobot-miniboot"/>
   <project name="x5-hobot-audio-config" path="source/hobot-audio-config"/>
   <project name="x5-hobot-spdev" path="source/hobot-spdev"/>
   <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples"/>
-  <project name="x5-hobot-display" path="source/hobot-display"/>
+  <project name="x5-hobot-display" path="source/hobot-display""/>
 
   <project name="x5-rdk-gen" path="."/>
 </manifest>
