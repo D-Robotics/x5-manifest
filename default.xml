@@ -33,6 +33,18 @@
   <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples"/>
   <project name="x5-hobot-display" path="source/hobot-display"/>
 
-  <project name="x5-rdk-gen" path="."/>
+  <project name="hobot-multimedia" path="source/x3-hobot-multimedia" />
+  <project name="hobot-multimedia-dev" path="source/x3-hobot-multimedia-dev"/>
+  <project name="hobot-multimedia-samples" path="source/x3-hobot-multimedia-samples"/>
+  <project name="hobot-display" path="source/x3-hobot-display"/>
+  <project name="hobot-camera" path="source/x3-hobot-camera"/>
+  <project name="hobot-bpu-drivers" path="source/x3-hobot-bpu-drivers"/>
+  <project name="hobot-spdev" path="source/x3-hobot-spdev"/>
+  <project name="kernel" path="source/x3-kernel"/>
+  <project name="hobot-miniboot" path="source/x3-hobot-miniboot"/>
+  <project name="bootloader" path="source/x3-bootloader"/>
+  <project name="uboot" path="source/x3-bootloader/x3-uboot"/>
+
+  <project name="rdk-gen" path="."/>
 </manifest>
 
