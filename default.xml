@@ -16,7 +16,7 @@
   <project name="x5-hobot-io-samples" path="source/hobot-io-samples"/>
   <project name="x5-hobot-sp-samples" path="source/hobot-sp-samples"/>
   <project name="x5-hobot-audio-config" path="source/hobot-audio-config"/>
-  <project name="rdk-gen" path="."/>
+  <project name="x5-rdk-gen" path="."/>
   <!-- only x5 -->
   <project name="x5-kernel" path="source/kernel"/>
   <project name="x5-uboot" path="source/bootloader/uboot"/>
